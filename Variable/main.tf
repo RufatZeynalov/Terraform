@@ -1,6 +1,6 @@
 provider "aws" {
-  access_key = "AKIARJ5LAJYCOIXAVGFC"  # user aceess key
-  secret_key = "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"  # user secret key
+  access_key = "--------------------------------"  # user aceess key
+  secret_key = "--------------------------------"  # user secret key
   region = var.region     # relocation data to variable by var.data function
 }
 
